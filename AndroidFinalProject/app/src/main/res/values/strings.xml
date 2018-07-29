@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADP</string>
+    <string name="lose"> You Lost</string>
+    <string name="win">You Won</string>
+    <string name="draw">Drawn Game</string>
+    <string name="get_started">START</string>
+    <string name="scoreboard">scoreboard</string>
+    <string name="exit">EXIT</string>
+    <string name="nameofthegame">YOUNG GAME BOY</string>
+    <string name="rockpaperscissors">LET\'S ROCK PAPER SCISSORS</string>
+    <string name="rankings">Rankings</string>
+</resources>

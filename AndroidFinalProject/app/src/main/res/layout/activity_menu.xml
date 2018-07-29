@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menubackground"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+        android:layout_width="162dp"
+        android:layout_height="163dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_vertical|center_horizontal|center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.92"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/start_btn"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="7dp"
+            android:background="@android:color/transparent"
+            android:text="@string/get_started"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/scores_btn"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="22dp"
+            android:background="@android:color/transparent"
+            android:text="@string/scoreboard"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/exits_btn"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="25dp"
+            android:background="@android:color/transparent"
+            android:text="@string/exit"
+            android:textAlignment="center" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

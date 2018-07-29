@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/hulk01" android:duration="300"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk02" android:duration="100"/>
+    <item android:drawable="@drawable/hulk03" android:duration="100"/>
+    <item android:drawable="@drawable/hulk04" android:duration="100"/>
+    <item android:drawable="@drawable/hulk05" android:duration="100"/>
+    <item android:drawable="@drawable/hulk06" android:duration="100"/>
+    <item android:drawable="@drawable/hulk07" android:duration="100"/>
+    <item android:drawable="@drawable/hulk08" android:duration="100"/>
+    <item android:drawable="@drawable/hulk09" android:duration="100"/>
+    <item android:drawable="@drawable/hulk10" android:duration="100"/>
+    <item android:drawable="@drawable/hulk11" android:duration="100"/>
+    <item android:drawable="@drawable/hulk10" android:duration="100"/>
+    <item android:drawable="@drawable/hulk11" android:duration="100"/>
+    <item android:drawable="@drawable/hulk10" android:duration="100"/>
+    <item android:drawable="@drawable/hulk11" android:duration="100"/>
+    <item android:drawable="@drawable/hulk10" android:duration="100"/>
+    <item android:drawable="@drawable/hulk11" android:duration="100"/>
+    <item android:drawable="@drawable/hulk10" android:duration="100"/>
+    <item android:drawable="@drawable/hulk11" android:duration="10000"/>
+
+</animation-list>
